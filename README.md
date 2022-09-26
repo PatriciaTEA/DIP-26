@@ -39,7 +39,7 @@ We believe providing these opportunities to engage with researchers and those in
 The intended audience for this community hub is anyone who is interested in cryptoeconomics or governance, from the global crypto community as well as LATAM, local community. The open office hours and discussions will provide an opportunity for participants to come and learn from researchers and practitioners.    
 
 ## Implementation
-Both SCRF and TE Academy have run a variety of community events around these topics in the past, such as the Token Engineering Global Gatherings, the Rewards Systems Assemblage, DAO Science workshop at The DAOist’s Global Governance Gathering in April 2022, the Web3 Workshop in July 2022, the DAO Workshop at Stanford SBC in September 2022. These events have also been supported by virtual events as well.     
+Both SCRF and TE Academy have run a [variety of community events](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome) around these topics in the past, such as the [Token Engineering Global Gatherings](https://youtu.be/tFcSqKXfCuE), the [Rewards Systems Assemblage](https://youtu.be/wndDaI-eNgc), DAO Science workshop at [The DAOist’s Global Governance Gathering in April 2022](https://www.youtube.com/watch?v=m0xzrl-O54k&t=4s), the [Web3 Workshop in July 2022](https://web3workshop.science/), the [DAO Workshop](https://daoworkshop.notion.site/Stanford-DAO-Workshop-ffdcc1e7ff7749a6afc1ee7b7bdc134c) at Stanford SBC in September 2022. These events have also been supported by virtual events as well.     
 
 In terms of the exact programming, we are splitting the time into two days focused on    
 |Cryptoeconomics  Oct 11-12 / 9am-5pm     
