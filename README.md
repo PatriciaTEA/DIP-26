@@ -1,27 +1,85 @@
-## Devcon Improvement Proposals (DIPs)
+---
+DIP: 26      
+Title: Cryptoeconomy & Governance Community Hub     
+Status: Draft     
+Themes: Social, Virtual Experience, Freeform   
+Tags: Event Production      
+Authors:     
+Angela Kreitenweis (angela@tokenengineering.net) - [TE Academy](https://tokenengineeringcommunity.github.io/website/)     
+Eugene Leventhal (eugene@scrf.io) - [SCRF](https://www.smartcontractresearch.org/)     
+Resources Required: [Community Hub general set up](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6c2e054e-d9c2-4afe-8aaa-94dc04047918/Production_Guide.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220926%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220926T143825Z&X-Amz-Expires=86400&X-Amz-Signature=e79231915b8cec4cd3141e2fdd2d1ad69c3d6d2d417d81631bf6e8e9d76a5121&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Production%2520Guide.png%22&x-id=GetObject) and all materials included, 1 Screen, HDMI cables to connect with laptops, Cable extensions, Power Plugs, WiFi
+      
+Discussion: https://forum.devcon.org/t/cryptoecon-governance-community-hub-idea/597/3?u=akrtws     
+Created: 2022-09-26     
 
-Devcon Improvement Proposals (DIPs) are intended for collaborative community input on what should be included at the upcoming Devcon. 
+---
+  
+## Summary of Proposal
 
-While we are excited to have a more formal process to hear ideas from the community (roughly inspired by the more decentralized PEP, BIP and EIP processes), this is an experiment, and it should be understood that approval of proposals ultimately lies solely with the Devcon team. DIPs focus on collaboration in the ecosystem, so please review [DIP-0](DIPs/DIP-0.md) and try to collaborate on other proposals before submitting your new DIP. *We're excited to see all of your great ideas!*
+The Cryptoeconomics and Governance Community Hub, organized by SCRF and TE Academy, will provide a space for those who want to chat with experts and enthusiasts throughout DevCon. This Hub will offer office hours, networking, and hands-on exposure to some tools and products relevant to cryptoecon and governance.      
 
-You can also see the DIPs [on the DEVCon website](https://www.devcon.org/en/#contribute).
- 
- 
-## Contributing
+## Abstract
 
-1. Post your idea in the [Devcon Forum](https://forum.devcon.org/), publicize it, discuss there, and gather feedback.
-2. Once you have feedback and some interest in the idea, proceed with the below steps.
-3. Review [DIP-0](DIPs/DIP-0.md). If you have questions or need help with Github, please just ask us — we can help you!
-4. Fork the repository by clicking "Fork" at the top right.
-5. Add your DIP to your fork of the repository.
-6. Submit a Pull Request to this repository
+SCRF and TE Academy are coming together to propose a Cryptoeconomics and Governance Community Hub that will bring together researchers across governance and cryptoeconomics.
 
-After submitting editors will go through [this checklist](checklist.md) - it is encouraged that you already went trough these points yourself.
+Both fields are super hot at the moment, but missing depth and rigor at most other crypto conferences. We are excited to see Devcon’s offering talk tracks for Cryptoeconomics and Governance & Coordination. With our Community Hub, we will complement the talks with what is missing most to grow this sector: a place for our communityties and for attendees from complex systems engineering, economics, game theory, data science, and political science to meet and discuss research and its application. 
 
-## DIP Status Terms
+This Hub is intended to bring together everyone from those just starting their journeys in these topics all the way through those building and experimenting with cutting edge primitives and tools. Come join us in Bogotá! 
 
- * **Draft** - an DIP that is undergoing rapid iteration and changes.
- * **Accepted** - The Devcon Organisers have Accepted your DIP.
- * **Postponed** - The DIP won’t be possible for the following edition.
- * **Not implemented** - The DIP won’t be implemented.
- * **Changes Requested** - The DIP needs modifications conditional to its validation.
+## Motivation and Rationale
+__Below are some useful prompts__
+How would this enhance attendee experience?    
+Our vision is to combine two elements:    
+a) offer a networking spot to meet the Devcon speakers on relevant topics (Cryptoeconomics/Governance) and continue the conversation after the talks (Community Hub)
+
+b) offer office hours/AMA sessions with researchers and practitioners in the field (Community Hub)    
+
+We believe providing these opportunities to engage with researchers and those interested in research plays a small part in supporting the general level of knowledge of such core topics for web3 systems. The intimate space will provide a balance to the talks and panels with larger audiences of DevCon.     
+
+The intended audience for this community hub is anyone who is interested in cryptoeconomics or governance, from the global crypto community as well as LATAM, local community. The open office hours and discussions will provide an opportunity for participants to come and learn from researchers and practitioners.    
+
+## Implementation
+Both SCRF and TE Academy have run a variety of community events around these topics in the past, such as the Token Engineering Global Gatherings, the Rewards Systems Assemblage, DAO Science workshop at The DAOist’s Global Governance Gathering in April 2022, the Web3 Workshop in July 2022, the DAO Workshop at Stanford SBC in September 2022. These events have also been supported by virtual events as well.     
+
+In terms of the exact programming, we are splitting the time into two days focused on    
+|Cryptoeconomics  Oct 11-12 / 9am-5pm     
+|Governance Oct 13-14 9am-5pm     
+
+**Cryptoeconomics sessions include:**    
+- What is Cryptoeconomics, Token Engineering, Tokenomics?
+- Typical challenges in this sector and how to address them
+- How to become a token engineer, studying at TE Academy
+- AMA sessions with Cryptoeconomics pros, researchers, token designers
+- Sessions in English and Spanish
+- Interactive quizzes & votings & memes :)
+
+**Governance sessions include:**    
+- Open office hours with Otterspace / discussion on SBTs
+- Open office hours with BlockScience / discussion on Computer Aided Governance
+- DeSci governance open office hours / networking 
+- Open office hours with DAO Research Collective, Metagov, and SCRF / discussion on governance and DAO research
+
+The schedule for the Community Hub is available here: [Cryptoeconomics & Governance Community Hub](https://te-academy.notion.site/Cryptoeconomics-Governance-Community-Hub-f2c5da9d967742b1aa53b94babbe033b)    
+
+## Operational Requirements & Ownership
+__Please answer questions below:__
+1. What actions are required to implement the proposal at Devcon?
+- Screen/Voice: We’ll combine on-site and online discussion, thus use several screens and video calls. We can bring our own screens & laptops if necessary.
+- 1 Screen
+- HDMI cables to connect with laptops
+- Cable extensions
+- Power Plugs
+- WiFi
+- Posters: We will print some posters to hang and decorate the venue.
+
+2. Who will be responsible for the proposal to be implemented effectively?     
+Patricia Brolezzi (patricia@tokenengineering.net)     
+Angela Kreitenweis (angela@tokenengineering.net)     
+Eugene Leventhal (eugene@scrf.io)     
+
+3. What other projects could this proposal be integrated with? (Bonus points for collaboration across teams :))     
+Any projects focused on cryptoeconomics and/or governance should feel free to reach out to us. 
+
+## Links & Additional Information
+
+Get more information on the schedule, and add events to your calendar: [Cryptoeconomics & Governance Community Hub](https://te-academy.notion.site/Cryptoeconomics-Governance-Community-Hub-f2c5da9d967742b1aa53b94babbe033b)   
